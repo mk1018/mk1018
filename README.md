@@ -1,5 +1,7 @@
-<h1 align="center">Motonari Kurita</h1>
-<h3 align="center">Web & BlockChain engineer based in Japan.<br/></h3>
+<h1 align="center">
+  Motonari Kurita
+  <h3 align="center">Web & BlockChain engineer based in Japan.</h3>
+</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,7 +25,12 @@
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mk1018&count_private=true&include_all_commits=true&theme=onedark" alt="notandrewdev" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk1018&layout=compact&theme=onedark&langs_count=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mk1018&theme=github_dark" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mk1018&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mk1018&theme=github_dark&utcOffset=10" />
+</div>
+
   
