@@ -29,6 +29,26 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mk1018&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mk1018&theme=github_dark&utcOffset=10" />
+
+  <br/>
+
+  <details>
+    <summary style="
+      display: inline-block; 
+      padding: 10px 20px; 
+      background: linear-gradient(135deg, #6e7f8d, #4e5d6c); 
+      color: #ffffff; 
+      border: 1px solid #4e5d6c; 
+      border-radius: 8px; 
+      box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+      cursor: pointer;
+      transition: background 0.3s ease;
+    ">
+      Show Contributions(2020 ~ 2024/10)
+    </summary>
+    <img src="./img/contributions.png" alt="Contributions" style="margin-top: 10px;" />
+  </details>
+
 </div>
 
   
