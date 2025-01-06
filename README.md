@@ -44,7 +44,7 @@
       cursor: pointer;
       transition: background 0.3s ease;
     ">
-      Show Contributions(2020 ~ 2024/10)
+      Show Contributions(2020 ~ 2024)
     </summary>
     <img src="./img/contributions/2020-202412.png" alt="Contributions" style="margin-top: 10px;" />
   </details>
