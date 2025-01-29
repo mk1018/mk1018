@@ -20,10 +20,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mk1018&theme=onedark&margin-w=15&margin-h=15&column=5" alt="notandrewdev" />
   </a>
 
-  <picture align="center">
+  <!-- <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mk1018/mk1018/blob/main/img/snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/mk1018/mk1018/blob/main/img/snake-dark.svg">
-  </picture>
+  </picture> -->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mk1018&theme=github_dark" />
 
