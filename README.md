@@ -19,6 +19,9 @@
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mk1018&theme=onedark&margin-w=15&margin-h=15&column=5" alt="notandrewdev" />
   </a>
+  <br /><br />
+
+  ![GitHub Battle Power](https://github-strength.vercel.app/api/badge/b3761e9b-90b0-4680-ab70-1f6e41c6d818?theme=dark)
 
   <!-- <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mk1018/mk1018/blob/main/img/snake-dark.svg">
