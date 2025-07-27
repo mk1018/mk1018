@@ -21,7 +21,7 @@
   </a>
   <br /><br />
 
-  [![GitHub Battle Power](https://github-strength.vercel.app/api/badge/b3761e9b-90b0-4680-ab70-1f6e41c6d818?theme=dark)](https://github-strength.vercel.app)
+  [![GitHub Battle Power](https://gh-strength.delt.co.jp/api/badge/b3761e9b-90b0-4680-ab70-1f6e41c6d818?theme=dark)](https://gh-strength.delt.co.jp)
 
   <!-- <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mk1018/mk1018/blob/main/img/snake-dark.svg">
