@@ -1,6 +1,5 @@
 <h1 align="center">
   Motonari Kurita
-
   <h3 align="center">BlockChain & Web engineer based in Japan.</h3>
 </h1>
 
@@ -29,7 +28,6 @@
   </picture> -->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mk1018&theme=github_dark" />
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mk1018&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mk1018&theme=github_dark&utcOffset=10" />
 
@@ -51,7 +49,4 @@
     </summary>
     <img src="./img/contributions/2020-202512.png" alt="Contributions" style="margin-top: 10px;" />
   </details>
-
 </div>
-
-  
