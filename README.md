@@ -49,7 +49,7 @@
     ">
       Show Contributions(2020 ~ 2024)
     </summary>
-    <img src="./img/contributions/2020-202508.png" alt="Contributions" style="margin-top: 10px;" />
+    <img src="./img/contributions/2020-202512.png" alt="Contributions" style="margin-top: 10px;" />
   </details>
 
 </div>
