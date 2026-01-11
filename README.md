@@ -26,12 +26,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mk1018/mk1018/blob/main/img/snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/mk1018/mk1018/blob/main/img/snake-dark.svg">
   </picture> -->
-
+  
+  <!-- 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mk1018&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mk1018&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mk1018&theme=github_dark&utcOffset=10" />
 
   <br/>
+  -->
 
   <details>
     <summary style="
